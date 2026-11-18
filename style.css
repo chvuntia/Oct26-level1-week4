@@ -1,0 +1,35 @@
+h2, h3 {color:#640080;
+        border: solid;
+        border-color: #f01482;
+        padding: 3px;
+        display: inline-block
+        
+   }
+h4 
+{color:#0f0f6b;}
+
+body {
+  padding: 25px;
+  background-color:lightcoral; 
+p {color: #d21e39;}
+
+}
+img {
+  width: 300px;
+  border: solid;
+  border-color: #005580;
+  justify content: flex-end;
+}
+h1 {color:#f1092f;
+    border: dashed;
+    border-color: orange;
+    padding: 12px;
+    display: inline-block;
+   }
+ul {color: #a7fd26;}
+ol {color: #353cfd}
+.what-they {
+  display: flex;
+  justify-content: center;
+  align-items: 300px
+           }

@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> Social Networking Platforms </h1>
+<h3>What they do:</h3>
+    <ol>
+     <p> Connect people such as friends, families, and communities to share updates, messaging, thoughts, and group events.</p>
+      <img src="socialmediaimage.jpg">
+    </ol>
+<h4>Examples of Social Networking Platforms</h4>
+    <ol>
+      <li>Facebook</li> 
+      <li>Instagram</li>
+      <li>Nextdoor</li>
+      <li>Snapchat</li>
+
+    </ol>
+  <h3>Social and Professional Networks</h3>
+      <p>There are several types of Networking Platforms.Today, we will focus on Social and Professional networks.</p>
+    <p> Platforms like Facebook and Nextdoor focus on personal relationships, communities, and local networking.</p>
+    <img src="peoplesmilingimage.jpg">
+    <h3>Media Sharing Platforms</h3>
+    <ul><li>Platforms like Youtube, Tik Tok, and Instagram reels focues heavily on video entertainment,tutorials, and algorothmic content delivery.</li><li>Photo Curation-Instagram and Snapchat rely on immediate visual communication,stories, and grid aesthetics.</li>
+          </ul>
+    <img src= "fashionsocialmedia.webp">
+    <div class="heading-box">
+      <h1>Social Networking Platforms</h1>
+      <h2>What They do</h2>
+      <h3>Social and Professional Networks</h3>
+    </div> 
+ </body>
+</html>
+<div class="what-they">
+  <h2>What they do</h2>
+  </div>
