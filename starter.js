@@ -1,6 +1,12 @@
-console.log(typeof 12);
-console.log(typeof "12");
-console.log(typeof false);
-console.log(typeof "false");
+const activityName = "Space observation";
+const capacity = 10;
+const registered = 9;
+const seatsLeft = capacity - registered;
+const hasSeats = seatsLeft === 0;
 
-// Updates updates
+console.log(activityName);
+if (hasSeats) {
+  console.log("A seat is available.");
+} else {
+  console.log("The activity is full.");
+}

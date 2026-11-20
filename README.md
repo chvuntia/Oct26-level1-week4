@@ -1,10 +1,8 @@
-# Day 16 investigation: two values can look alike
+# Day 18 investigation: test both branch outcomes
 
-Use this after the required `hello.js` save/run/rerun and profile work, or with a TA for targeted recovery. This file is separate from your required greeting program.
+Run `node starter.js` from this folder after your own core program or with a TA for targeted recovery. The starter is intentionally wrong. Its intended rule is that a positive remaining seat count selects the available message; zero selects full. Use valid integer counts through capacity.
 
-1. Read `starter.js`. Predict the type printed by each line before running it.
-2. In the terminal in this folder, run `node starter.js`. Compare predictions with the results.
-3. Replace one quoted numeric-looking value with a number. Save, rerun, and identify the newest output.
-4. Explain why quoted `"false"` reports a different type from `false`, even though the words look similar.
-
-No separate graded upload is needed. Record a result or explain it aloud to your TA.
+1. Predict the condition and message at 9 registrations out of 10. Run and compare.
+2. Try 10 out of 10. Identify the condition that sends the program down the wrong path.
+3. Fix that comparison while leaving both messages as written. Repeat both tests and record expected versus actual results.
+4. Restore the starting count of 9. Explain why testing only one branch gives limited evidence.
